@@ -13,13 +13,13 @@ Todo o processo foi feito com foco em precisão visual e espacial, para que as r
 
 ## 🗺️ Regiões Disponíveis
 
-**Centro** 
-**Segredo** 
-**Prosa** 
-**Bandeira** 
-**Anhanduizinho** 
-**Lagoa** 
-**Imbirussu**
+- **Centro** 
+- **Segredo** 
+- **Prosa** 
+- **Bandeira** 
+- **Anhanduizinho** 
+- **Lagoa** 
+- **Imbirussu**
 
 Cada região está representada por:
 
